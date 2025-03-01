@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYmyiTn8UGs=",
+  "success": true,
+  "projectFilePath": "/home/kali/Documents/tp2-infra/my-first-app/my-first-app.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
